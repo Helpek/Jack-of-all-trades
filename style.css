@@ -1,0 +1,55 @@
+@font-face {
+font-family: 'czcionka';
+/* src: url(font.ttf); */ 
+}
+	
+body{
+		margin: 0px;
+font-family: 'czcionka', sans-serif;
+font-size: 35px;
+background-color: rgb(15,15,15);
+color: rgb(195,35,35);
+text-align : center;
+}
+
+.kier{
+	background:url(kier.png);
+}
+
+.karo{
+	background:url(karo.png);
+}
+
+.pik{
+	background:url(pik.png);
+}
+
+.trefl{
+	background:url(trefl.png);
+}
+
+input {
+	width:96px;
+	height:128px;
+	border: solid red 4px;
+}
+
+.numbers{
+	background-color: rgba(0,0,0, 0.65);
+	color: rgba(0,255,255, 0.5);
+	font-size: 30px;
+	width:60px;
+}
+
+.green{
+	color: rgba(0,200,155, 0.9);
+}
+
+.blue{
+	color: rgba(0,255,255, 0.4);
+}
+
+
+p{
+	margin : 10px;
+}
