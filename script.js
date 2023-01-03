@@ -77,7 +77,7 @@ window.onload = function () {
 };
 
 function check(){
-	myKier.style = "border:solid blue 2px;";
+	myKier.style = "border:solid blue 4px;";
 	if(a == 1)
 	{myKier.style = "border:solid blue 0px;"; console.log("a")}
 	if(b == 1)
@@ -85,7 +85,7 @@ function check(){
 	if(c == 1)
 	{myKier.style = "border:solid blue 0px;"; console.log("c")}
 
-	myKaro.style = "border:solid blue 2px;";
+	myKaro.style = "border:solid blue 4px;";
 	if(a == 2)
 	{myKaro.style = "border:solid blue 0px;"; console.log("a")}
 	if(b == 2)
@@ -93,7 +93,7 @@ function check(){
 	if(c == 2)
 	{myKaro.style = "border:solid blue 0px;"; console.log("c")}
 
-	myPik.style = "border:solid blue 2px;";
+	myPik.style = "border:solid blue 4px;";
 	if(a == 3)
 	{myPik.style = "border:solid blue 0px;"; console.log("a")}
 	if(b == 3)
@@ -101,7 +101,7 @@ function check(){
 	if(c == 3)
 	{myPik.style = "border:solid blue 0px;"; console.log("c")}
 
-	myTrefl.style = "border:solid blue 2px;";
+	myTrefl.style = "border:solid blue 4px;";
 	if(a == 4)
 	{myTrefl.style = "border:solid blue 0px;"; console.log("a")}
 	if(b == 4)
