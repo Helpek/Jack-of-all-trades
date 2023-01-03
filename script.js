@@ -77,35 +77,35 @@ window.onload = function () {
 };
 
 function check(){
-	myKier.style = "border:solid red 2px;";
+	myKier.style = "border:solid blue 2px;";
 	if(a == 1)
-	{myKier.style = "border:solid red 0px;"; console.log("a")}
+	{myKier.style = "border:solid blue 0px;"; console.log("a")}
 	if(b == 1)
-	{myKier.style = "border:solid red 0px;"; console.log("b")}
+	{myKier.style = "border:solid blue 0px;"; console.log("b")}
 	if(c == 1)
-	{myKier.style = "border:solid red 0px;"; console.log("c")}
+	{myKier.style = "border:solid blue 0px;"; console.log("c")}
 
 	myKaro.style = "border:solid blue 2px;";
 	if(a == 2)
-	{myKaro.style = "border:solid red 0px;"; console.log("a")}
+	{myKaro.style = "border:solid blue 0px;"; console.log("a")}
 	if(b == 2)
-	{myKaro.style = "border:solid red 0px;"; console.log("b")}
+	{myKaro.style = "border:solid blue 0px;"; console.log("b")}
 	if(c == 2)
-	{myKaro.style = "border:solid red 0px;"; console.log("c")}
+	{myKaro.style = "border:solid blue 0px;"; console.log("c")}
 
-	myPik.style = "border:solid red 2px;";
+	myPik.style = "border:solid blue 2px;";
 	if(a == 3)
-	{myPik.style = "border:solid red 0px;"; console.log("a")}
+	{myPik.style = "border:solid blue 0px;"; console.log("a")}
 	if(b == 3)
-	{myPik.style = "border:solid red 0px;"; console.log("b")}
+	{myPik.style = "border:solid blue 0px;"; console.log("b")}
 	if(c == 3)
-	{myPik.style = "border:solid red 0px;"; console.log("c")}
+	{myPik.style = "border:solid blue 0px;"; console.log("c")}
 
-	myTrefl.style = "border:solid red 2px;";
+	myTrefl.style = "border:solid blue 2px;";
 	if(a == 4)
-	{myTrefl.style = "border:solid red 0px;"; console.log("a")}
+	{myTrefl.style = "border:solid blue 0px;"; console.log("a")}
 	if(b == 4)
-	{myTrefl.style = "border:solid red 0px;"; console.log("b")}
+	{myTrefl.style = "border:solid blue 0px;"; console.log("b")}
 	if(c == 4)
-	{myTrefl.style = "border:solid red 0px;"; console.log("c")}
+	{myTrefl.style = "border:solid blue 0px;"; console.log("c")}
 }
