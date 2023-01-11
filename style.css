@@ -31,7 +31,7 @@ text-align : center;
 input {
 	width:96px;
 	height:128px;
-	border: solid blue 4px;
+	border: solid blue 0px;
 }
 
 .numbers{
